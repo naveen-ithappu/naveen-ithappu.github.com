@@ -1,0 +1,3 @@
+[submodule "demo/GameOfLife"]
+	path = demo/GameOfLife
+	url = https://github.com/naveen-ithappu/Game-of-Life--HTML5.git
